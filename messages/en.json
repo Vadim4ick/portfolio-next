@@ -1,0 +1,32 @@
+{
+  "Index": {
+    "title": "Hello!) I'm Vadim, Frontend developer",
+    "description": "I have been working in web development for over 4 years. During this time, I created more than 100+ different websites of varying complexity. And I managed to work for a whole year in a commercial company, in team development. At the moment I live in the beautiful, sunny city of Batumi (Georgia), in my free time I like to spend time with family and friends, as well as go hiking in the mountains to “reboot”. Also, in addition to experience in frontend development, I have teaching experience, I trained and prepared junior developers for their first orders."
+  },
+  "MainBtns": {
+    "connectionBtn": "Contact with me",
+    "saveSummaryBtn": "Download resume"
+  },
+  "Aside": {
+    "about": "About me",
+    "projects": "Projects",
+    "contacts": "Contacts"
+  },
+  "Skills": {
+    "title": "Skills and tools"
+  },
+  "Projects": {
+    "title": "My projects"
+  },
+  "Contacts": {
+    "contacts": "Contacts",
+    "form-name": "Feedback form",
+    "name": "Name",
+    "email": "Email",
+    "message": "Write something",
+    "your-name": "Your name",
+    "your-email": "Email",
+    "your-message": "Message",
+    "send": "Send"
+  }
+}
