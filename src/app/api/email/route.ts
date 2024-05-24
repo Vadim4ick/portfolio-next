@@ -9,12 +9,12 @@ export async function POST(request: Request) {
   const message = formData.message;
 
   const transporter = nodemailer.createTransport({
-    host: process.env.SMTP_HOST,
+    host: "smtp.gmail.com",
     secure: true,
 
     auth: {
-      user: process.env.SMTP_USER,
-      pass: process.env.SMTP_PASS,
+      user: "firulvv@gmail.com",
+      pass: "nvld mtsc vrgo yhzt",
     },
   });
 
