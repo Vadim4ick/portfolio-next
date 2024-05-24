@@ -34,6 +34,8 @@ export async function POST(request: Request) {
 
     return NextResponse.json({ message: "Успех!!" }, { status: 200 });
   } catch (error) {
+    console.log(error.message);
+    
     return NextResponse.json(
       { message: "Произошла непредвиденная ошибка при отправки письма!" },
       { status: 500 },
